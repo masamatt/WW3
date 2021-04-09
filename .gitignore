@@ -54,6 +54,8 @@ regtests/*/work*
 regtests/*/input*/*.nc
 regtests/*/input*/*/*.nc
 regtests/*/input*/partition.ww3
+regtests/ww3_tp2.21/input/*.msh
+regtests/ww3_tp2.21/input/*.in
 regtests/*/*.png
 regtests/ww3_tp2.14/input/oasis3-mct/doc
 regtests/ww3_tp2.14/input*/*.nc.OAS*CM*
